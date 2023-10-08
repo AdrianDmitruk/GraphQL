@@ -1,6 +1,5 @@
 const { ApolloServer, gql } = require('apollo-server');
 
-// Пример данных пользователей и постов
 const users = [
     { id: '1', name: 'Пользователь 1' },
     { id: '2', name: 'Пользователь 2' },
